@@ -1,8 +1,8 @@
 export default function Header(){
     return(
-        <header className="bg-black text-[#3d0000]">
+        <header className="bg-black text-[#950101] font-bold ">
         <nav>
-         <ul>
+         <ul className="flex space-x-4 p-4 justify-center cursor-pointer">
            <li>home</li>
            <li>about</li>
            <li>contact</li>
