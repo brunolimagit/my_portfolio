@@ -1,13 +1,15 @@
+import {BrainIcon, ListIcon} from "@phosphor-icons/react";
+
+
 export default function Header(){
     return(
-        <header className="bg-black text-[#950101] font-bold ">
-        <nav>
-         <ul className="flex space-x-4 p-4 justify-center cursor-pointer">
-           <li>home</li>
-           <li>about</li>
-           <li>contact</li>
-         </ul>
-        </nav>
+        <header className="flex text-[#950101]">
+            <div className="border-1">
+              <BrainIcon size={32} color="#ff0000" />
+              <p>Bruno Dev</p>
+              <ListIcon size={32} color="#ff0000" />
+            </div>
+            
         </header>
         
     )
