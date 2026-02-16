@@ -1,5 +1,6 @@
 import homeImg from "../assets/img-section-home.png";
 import Header from "../components/Header";
+import { Typewriter } from "react-simple-typewriter";
 
 export default function Home() {
   return (
@@ -17,9 +18,14 @@ export default function Home() {
 
         <Header />
 
-        <div className="flex flex-1 items-center justify-center mt-20">
-          <h1 className="text-white text-[10rem] font-bold">
-            
+        <div className="flex flex-1 items-center justify-center mt-75">
+          <h1 className="font-['Bitcount_Grid_Double'] text-[#ff0000] text-[10rem] font-bold animate-float">
+           <Typewriter
+              words={["BRUNO DEV"]}
+              loop={true}
+              cursor
+              typeSpeed={200}
+            />
           </h1>
         </div>
 

@@ -1,1 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..200&display=swap');
+
 @import "tailwindcss";
+
+@import "tailwindcss";
+
+@theme {
+  --animate-float: float 4s ease-in-out infinite;
+
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-15px);
+    }
+  }
+}
