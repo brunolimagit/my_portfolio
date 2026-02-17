@@ -21,7 +21,7 @@ export default function Home() {
         <Header />
        
        <div className="z-20 mx-10 flex justify-between mt-10">
-         <div className="w-100 text-white font-['Bitcount_Grid_Double'] font-bold">
+         <div className="h-80 text-white font-['Bitcount_Grid_Double'] font-bold">
           <h1 className="text-2xl ">
            {"->"}FULL STACK DEVELOPER = {"{"} 
           </h1>
