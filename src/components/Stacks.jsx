@@ -11,8 +11,7 @@ export default function Stacks() {
             "Node.js",
             "JavaScript",
             "React.js",
-            "Postgres",
-            "Angular",
+            "PostgreSQL",
             "MongoDB",
             "TailwindCSS",
           ].map((tech, index) => (
@@ -25,8 +24,7 @@ export default function Stacks() {
             "Node.js",
             "JavaScript",
             "React.js",
-            "Postgres",
-            "Angular",
+            "PostgreSQL",
             "MongoDB",
             "TailwindCSS",
           ].map((tech, index) => (
