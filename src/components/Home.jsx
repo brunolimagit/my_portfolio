@@ -88,8 +88,10 @@ export default function Home() {
             <span>{"};"}</span>
            
           <div className="font-bold font-['Bitcount_Grid_Double flex gap-5 mt-5 text-center ">
-            <a href="https://wa.me/5585988307887" target="_blank" className="font-['Bitcount_Grid_Double'] w-30 text-[#ff0000] text-xl border-1 border-[#ff0000] rounded-[30px] p-2 hover:bg-[#ff0000]/15 hover:text-white hover:border-0 cursor-pointer">Contato</a>
-            <button className="font-['Bitcount_Grid_Double'] w-30 text-white text-xl  rounded-[30px] p-2 bg-[#ff0000]/15 hover:bg-white/0 hover:border-1 hover:text-[#ff0000] cursor-pointer">CV</button>
+            <a href="https://wa.me/5585988307887" target="_blank" className="flex font-['Bitcount_Grid_Double'] w-30 text-[#ff0000] text-xl border justify-center border-[#ff0000] rounded-[30px] p-2 font-bold cursor-pointer transition-all duration-300 hover:bg-[#ff0000]/15 hover:text-white hover:shadow-[0_0_25px_#ff0000]">Contato
+               </a>
+           <a href="https://wa.me/5585988307887" target="_blank" className="flex font-['Bitcount_Grid_Double'] w-30 text-white  bg-[#ff0000]/40 text-xl border justify-center border-[#ff0000] rounded-[30px] p-2 font-bold cursor-pointer transition-all duration-300 hover:bg-[#ff0000]/15 hover:text-white hover:shadow-[0_0_25px_#ff0000]">CV
+               </a>
           </div>
 
          </div>
