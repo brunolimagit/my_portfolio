@@ -90,7 +90,7 @@ export default function Home() {
           <div className="font-bold font-['Bitcount_Grid_Double flex gap-5 mt-5 text-center ">
             <a href="https://wa.me/5585988307887" target="_blank" className="flex font-['Bitcount_Grid_Double'] w-30 text-[#ff0000] text-xl border justify-center border-[#ff0000] rounded-[30px] p-2 font-bold cursor-pointer transition-all duration-300 hover:bg-[#ff0000]/15 hover:text-white hover:shadow-[0_0_25px_#ff0000]">Contato
                </a>
-           <a href="https://wa.me/5585988307887" target="_blank" className="flex font-['Bitcount_Grid_Double'] w-30 text-white  bg-[#ff0000]/40 text-xl border justify-center border-[#ff0000] rounded-[30px] p-2 font-bold cursor-pointer transition-all duration-300 hover:bg-[#ff0000]/15 hover:text-white hover:shadow-[0_0_25px_#ff0000]">CV
+           <a href="https://wa.me/5585988307887" target="_blank" className="flex font-['Bitcount_Grid_Double'] w-30 text-white  bg-[#ff0000]/20 text-xl border justify-center border-[#ff0000] rounded-[30px] p-2 font-bold cursor-pointer transition-all duration-300 hover:bg-[#ff0000]/15 hover:text-white hover:shadow-[0_0_25px_#ff0000]">CV
                </a>
           </div>
 
