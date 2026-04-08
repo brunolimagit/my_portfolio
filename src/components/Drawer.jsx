@@ -89,7 +89,6 @@ function handleChangeInput(e) {
                     className='bg-white/10 w-full p-2 rounded text-white font-bold' />
 
                      <button type='submit' className="bg-[#A3772D] text-white px-4 py-2 rounded hover:bg-black transition-all mt-10 cursor-pointer">
-            Agendar 
           </button>
                   </form>
                 </div>
